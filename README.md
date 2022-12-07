@@ -21,6 +21,6 @@ In this project, a simple HTML form is created using HTML and CSS which receives
 Can be used anywhere where we want to store information taken from users. Examples include: Gym website, Travelagents websites etc.
 
 ### Sources
-https://login2explore.com/jpdb/docs.html
-https://www.w3schools.com/
+* https://login2explore.com/jpdb/docs.html
+* https://www.w3schools.com/
 
