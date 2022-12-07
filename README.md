@@ -1,11 +1,11 @@
 # HTMLform
-##Title
+## Title
 Saving data in JPDB from HTML form
 
-##Description
+## Description
 In this project, a simple HTML form is created using HTML and CSS which receives input from user, validate it and save in the database named sample. It uses javascript functions and JPDB request for adding data to the database. 
 
-##Benefits of using JSON PowerDB
+## Benefits of using JSON PowerDB
 * Simplest way to retrieve data in a JSON format.
 * Schema-free, Simple to use, Nimble and In-Memory database.
 * It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
