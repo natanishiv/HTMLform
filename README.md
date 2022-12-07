@@ -13,3 +13,6 @@ In this project, a simple HTML form is created using HTML and CSS which receives
 * It helps developers in faster coding, in-turn reduces development cost.
 * It is AJAX enabled database.
 
+### Additional features
+* Uses jbdb common js library which contains functions to put and execute command. These functions are used so as to make code simpler.
+* Has reset form facility so that form resets after getting submitted.
