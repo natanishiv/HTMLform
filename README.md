@@ -16,3 +16,11 @@ In this project, a simple HTML form is created using HTML and CSS which receives
 ### Additional features
 * Uses jbdb common js library which contains functions to put and execute command. These functions are used so as to make code simpler.
 * Has reset form facility so that form resets after getting submitted.
+
+### Scope of functionalities and examples of use
+Can be used anywhere where we want to store information taken from users. Examples include: Gym website, Travelagents websites etc.
+
+### Sources
+https://login2explore.com/jpdb/docs.html
+https://www.w3schools.com/
+
